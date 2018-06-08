@@ -1,9 +1,9 @@
 Project Name: Git Repository Workspace 
-Project State: initialization 
+Project State: git setup 
 Project Directory: /c/Users/DurfTop/Desktop/workspace testing/workspace test 2018 06 08 b 
-Last Update: Fri, Jun  8, 2018 12:20:08 PM 
-Branch Name: grw_2018_06_0001 
-Branch UID: 0001 
+Update Date: Fri, Jun  8, 2018 12:18:51 PM 
+Branch Name: placeholder 
+Branch UID: 1 
  
 Last Time I Worked On This Project : 
 reminder-no punctuations that could be escape terms 
@@ -16,4 +16,4 @@ reminder-no punctuations that could be escape terms
  
  
  
-Time of Commit: Fri, Jun  8, 2018 12:25:41 PM
+Time of Commit: Fri, Jun  8, 2018 12:20:01 PM
